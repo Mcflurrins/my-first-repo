@@ -5,3 +5,5 @@ NPM: 2306171713
 Class: PBP KKI
 
 Hobby : Sleeping
+
+Major : Computer System Information
